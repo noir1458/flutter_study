@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781104287960",
+    "project_id": "video11-8a13f",
+    "storage_bucket": "video11-8a13f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781104287960:android:d3e04a2fa7b03494ba87ad",
+        "android_client_info": {
+          "package_name": "com.example.video11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBku0xuE2OiXXCEp5g9QthXACJVO5PYzVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
